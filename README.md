@@ -1,2 +1,2 @@
 # wp-theme-bootstrap
-Wordpress Theme build with Bootstrap 4
+Wordpress Theme coming soon mode build with Bootstrap 4
